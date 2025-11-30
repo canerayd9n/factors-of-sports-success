@@ -1,0 +1,609 @@
+Year,Rank,NOC,Gold,Silver,Bronze,Total,Country_x,Country_Mapped,Country_y,GDP_Per_Capita,Total_Population,Active_Population_Total
+1992,22,Norway,2,4,1,7,Norway,Norway,Norway,34875.0,4359184.0,2815261.0
+1992,28,New Zealand,1,4,5,10,New Zealand,New Zealand,New Zealand,17189.0,3673400.0,2403555.0
+1992,25,Brazil,2,1,0,3,Brazil,Brazil,Brazil,4781.0,161735073.0,101167654.0
+1992,27,Sweden,1,7,4,12,Sweden,Sweden,Sweden,30520.0,8826939.0,5621611.0
+1992,19,Poland,3,6,10,19,Poland,Poland,Poland,3705.0,38594998.0,25490654.0
+1992,18,Bulgaria,3,7,6,16,Bulgaria,Bulgaria,Bulgaria,2240.0,8406067.0,5632322.0
+1992,24,Indonesia,2,2,1,5,Indonesia,Indonesia,Indonesia,1188.0,199888057.0,124515992.0
+1992,29,Finland,1,2,2,5,Finland,Finland,Finland,26270.0,5107790.0,3409669.0
+1992,30,Denmark,1,1,4,6,Denmark,Denmark,Denmark,35339.0,5233373.0,3525949.0
+1992,21,Kenya,2,4,2,8,Kenya,Kenya,Kenya,547.0,26601751.0,13323165.0
+1992,38,Jamaica,0,3,1,4,Jamaica,Jamaica,Jamaica,2621.0,2500151.0,1457214.0
+1992,38,Nigeria,0,3,1,4,Nigeria,Nigeria,Nigeria,467.0,110819428.0,58186776.0
+1992,40,Latvia,0,2,1,3,Latvia,Latvia,Latvia,2104.0,2485056.0,1632448.0
+1992,41,Austria,0,2,0,2,Austria,Austria,Austria,30332.0,7948278.0,5328594.0
+1992,26,Greece,2,0,0,2,Greece,Greece,Greece,12760.0,10562153.0,7092061.0
+1992,5,Cuba,14,6,11,31,Cuba,Cuba,Cuba,2785.0,10925362.0,7542560.0
+1992,6,Spain,13,7,2,22,Spain,Spain,Spain,15437.0,39724050.0,27139001.0
+1992,54,Qatar,0,0,1,1,Qatar,Qatar,Qatar,15798.0,514325.0,373883.0
+1992,54,Suriname,0,0,1,1,Suriname,Suriname,Suriname,1943.0,429606.0,258004.0
+1992,8,Hungary,11,12,7,30,Hungary,Hungary,Hungary,4497.0,10328965.0,6985555.0
+1992,9,France,8,5,16,29,France,France,France,27029.0,59541294.0,38925506.0
+1992,10,Australia,7,9,11,27,Australia,Australia,Australia,21780.0,18004882.0,11994523.0
+1992,11,Canada,7,4,7,18,Canada,Canada,Canada,20688.0,29302311.0,19816807.0
+1992,12,Italy,6,5,8,19,Italy,Italy,Italy,20650.0,56844303.0,38860972.0
+1992,4,China,16,22,16,54,China,China,China,603.0,1204855000.0,801384577.0
+1992,3,Germany,33,21,28,82,Germany,Germany,Germany,31873.0,81678051.0,55828044.0
+1992,49,Mexico,0,1,0,1,Mexico,Mexico,Mexico,4225.0,90862455.0,53682751.0
+1992,54,Thailand,0,0,1,1,Thailand,Thailand,Thailand,2849.0,59098232.0,40348975.0
+1992,54,Argentina,0,0,1,1,Argentina,Argentina,Argentina,8004.0,35070020.0,21541885.0
+1992,54,Colombia,0,0,1,1,Colombia,Colombia,Colombia,3046.0,35804662.0,21981200.0
+1992,54,Philippines,0,0,1,1,Philippines,Philippines,Philippines,1222.0,70546246.0,39554640.0
+1992,54,Pakistan,0,0,1,1,Pakistan,Pakistan,Pakistan,580.0,134582253.0,70093064.0
+1992,41,Namibia,0,2,0,2,Namibia,Namibia,Namibia,2478.0,1602170.0,875381.0
+1992,54,Ghana,0,0,1,1,Ghana,Ghana,Ghana,786.0,17399017.0,9224852.0
+1992,49,Peru,0,1,0,1,Peru,Peru,Peru,2183.0,24348919.0,14332546.0
+1992,52,Mongolia,0,0,2,2,Mongolia,Mongolia,Mongolia,739.0,2224945.0,1280283.0
+1992,52,Slovenia,0,0,2,2,Slovenia,Slovenia,Slovenia,10724.0,1989872.0,1381978.0
+1992,13,Great Britain,5,3,12,20,Great Britain,United Kingdom,United Kingdom,23206.0,58019030.0,37429998.0
+1992,37,Switzerland,1,0,0,1,Switzerland,Switzerland,Switzerland,50132.0,7040687.0,4760577.0
+1992,34,Estonia,1,0,1,2,Estonia,Estonia,Estonia,3081.0,1436634.0,945131.0
+1992,17,Japan,3,8,11,22,Japan,Japan,Japan,44211.0,125472000.0,87457274.0
+1992,41,South Africa,0,2,0,2,South Africa,South Africa,South Africa,3904.0,44541554.0,25975756.0
+1992,44,Belgium,0,1,2,3,Belgium,Belgium,Belgium,28531.0,10136811.0,6703399.0
+1992,44,Croatia,0,1,2,3,Croatia,Croatia,Croatia,4710.0,4620030.0,3154495.0
+1992,34,Lithuania,1,0,1,2,Lithuania,Lithuania,Lithuania,1788.0,3629102.0,2392434.0
+1992,14,Romania,4,6,8,18,Romania,Romania,Romania,1661.0,22684270.0,15306677.0
+1992,54,Malaysia,0,0,1,1,Malaysia,Malaysia,Malaysia,4411.0,20330599.0,12312421.0
+1992,34,Algeria,1,0,1,2,Algeria,Algeria,Algeria,1474.0,28470191.0,16274494.0
+1992,33,Ethiopia,1,0,2,3,Ethiopia,Ethiopia,Ethiopia,132.0,57537335.0,29114955.0
+1992,31,Morocco,1,1,1,3,Morocco,Morocco,Morocco,1456.0,26399429.0,15635638.0
+1992,32,Ireland,1,1,0,2,Ireland,Ireland,Ireland,19316.0,3608841.0,2324104.0
+1992,48,Israel,0,1,1,2,Israel,Israel,Israel,19221.0,5545000.0,3368248.0
+1996,45,Armenia,1,1,0,2,Armenia,Armenia,Armenia,413.0,3307581.0,2008317.0
+1996,38,Kenya,1,4,3,8,Kenya,Kenya,Kenya,547.0,26601751.0,13323165.0
+1996,36,Great Britain,1,8,6,15,Great Britain,United Kingdom,United Kingdom,23206.0,58019030.0,37429998.0
+1996,61,Latvia,0,1,0,1,Latvia,Latvia,Latvia,2104.0,2485056.0,1632448.0
+1996,47,Thailand,1,0,1,2,Thailand,Thailand,Thailand,2849.0,59098232.0,40348975.0
+1996,45,Croatia,1,1,0,2,Croatia,Croatia,Croatia,4710.0,4620030.0,3154495.0
+1996,47,Portugal,1,0,1,2,Portugal,Portugal,Portugal,11752.0,10026176.0,6744876.0
+1996,58,Uzbekistan,0,1,1,2,Uzbekistan,Uzbekistan,Uzbekistan,703.0,22917589.0,12922700.0
+1996,61,Azerbaijan,0,1,0,1,Azerbaijan,Azerbaijan,Azerbaijan,391.0,7684850.0,4720767.0
+1996,34,Ethiopia,2,0,1,3,Ethiopia,Ethiopia,Ethiopia,132.0,57537335.0,29114955.0
+1996,34,Algeria,2,0,1,3,Algeria,Algeria,Algeria,1474.0,28470191.0,16274494.0
+1996,37,Belarus,1,6,8,15,Belarus,Belarus,Belarus,1369.0,10193831.0,6700380.0
+1996,39,Jamaica,1,3,2,6,Jamaica,Jamaica,Jamaica,2621.0,2500151.0,1457214.0
+1996,40,Finland,1,2,1,4,Finland,Finland,Finland,26270.0,5107790.0,3409669.0
+1996,41,Indonesia,1,1,2,4,Indonesia,Indonesia,Indonesia,1188.0,199888057.0,124515992.0
+1996,71,Mozambique,0,0,1,1,Mozambique,Mozambique,Mozambique,196.0,15960530.0,8316221.0
+1996,71,Mongolia,0,0,1,1,Mongolia,Mongolia,Mongolia,739.0,2224945.0,1280283.0
+1996,23,Japan,3,6,5,14,Japan,Japan,Japan,44211.0,125472000.0,87457274.0
+1996,24,Kazakhstan,3,4,4,11,Kazakhstan,Kazakhstan,Kazakhstan,1251.0,16730536.0,10531684.0
+1996,22,Bulgaria,3,7,5,15,Bulgaria,Bulgaria,Bulgaria,2240.0,8406067.0,5632322.0
+1996,21,Canada,3,11,8,22,Canada,Canada,Canada,20688.0,29302311.0,19816807.0
+1996,19,Denmark,4,1,1,6,Denmark,Denmark,Denmark,35339.0,5233373.0,3525949.0
+1996,18,Switzerland,4,3,0,7,Switzerland,Switzerland,Switzerland,50132.0,7040687.0,4760577.0
+1996,71,Uganda,0,0,1,1,Uganda,Uganda,Uganda,346.0,20665667.0,9934321.0
+1996,71,Tunisia,0,0,1,1,Tunisia,Tunisia,Tunisia,2130.0,9161258.0,5591790.0
+1996,68,Georgia,0,0,2,2,Georgia,Georgia,Georgia,583.0,4657722.0,2995005.0
+1996,68,Trinidad and Tobago,0,0,2,2,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,4301.0,1295169.0,836353.0
+1996,68,Morocco,0,0,2,2,Morocco,Morocco,Morocco,1456.0,26399429.0,15635638.0
+1996,71,Mexico,0,0,1,1,Mexico,Mexico,Mexico,4225.0,90862455.0,53682751.0
+1996,71,Lithuania,0,0,1,1,Lithuania,Lithuania,Lithuania,1788.0,3629102.0,2392434.0
+1996,9,Ukraine,9,2,12,23,Ukraine,Ukraine,Ukraine,987.0,51665539.0,34140299.0
+1996,71,Israel,0,0,1,1,Israel,Israel,Israel,19221.0,5545000.0,3368248.0
+1996,71,India,0,0,1,1,India,India,India,386.0,960301044.0,561470150.0
+1996,25,Brazil,3,3,9,15,Brazil,Brazil,Brazil,4781.0,161735073.0,101167654.0
+1996,26,New Zealand,3,2,1,6,New Zealand,New Zealand,New Zealand,17189.0,3673400.0,2403555.0
+1996,27,South Africa,3,1,1,5,South Africa,South Africa,South Africa,3904.0,44541554.0,25975756.0
+1996,49,Syria,1,0,0,1,Syria,Syrian Arab Republic,Syrian Arab Republic,946.0,14616801.0,7688438.0
+1996,54,Argentina,0,2,1,3,Argentina,Argentina,Argentina,8004.0,35070020.0,21541885.0
+1996,55,Namibia,0,2,0,2,Namibia,Namibia,Namibia,2478.0,1602170.0,875381.0
+1996,55,Slovenia,0,2,0,2,Slovenia,Slovenia,Slovenia,10724.0,1989872.0,1381978.0
+1996,57,Austria,0,1,2,3,Austria,Austria,Austria,30332.0,7948278.0,5328594.0
+1996,58,Malaysia,0,1,1,2,Malaysia,Malaysia,Malaysia,4411.0,20330599.0,12312421.0
+1996,7,Australia,9,9,23,41,Australia,Australia,Australia,21780.0,18004882.0,11994523.0
+1996,6,Italy,13,10,12,35,Italy,Italy,Italy,20650.0,56844303.0,38860972.0
+1996,5,France,15,7,15,37,France,France,France,27029.0,59541294.0,38925506.0
+1996,4,China,16,22,12,50,China,China,China,603.0,1204855000.0,801384577.0
+1996,3,Germany,20,18,27,65,Germany,Germany,Germany,31873.0,81678051.0,55828044.0
+1996,49,Burundi,1,0,0,1,Burundi,Burundi,Burundi,169.0,6066316.0,2931922.0
+1996,49,Costa Rica,1,0,0,1,Costa Rica,Costa Rica,Costa Rica,3239.0,3535176.0,2151394.0
+1996,49,Ecuador,1,0,0,1,Ecuador,Ecuador,Ecuador,2112.0,11590514.0,6807346.0
+1996,14,Romania,4,7,9,20,Romania,Romania,Romania,1661.0,22684270.0,15306677.0
+1996,11,Poland,7,5,5,17,Poland,Poland,Poland,3705.0,38594998.0,25490654.0
+1996,12,Hungary,7,4,10,21,Hungary,Hungary,Hungary,4497.0,10328965.0,6985555.0
+1996,8,Cuba,9,8,8,25,Cuba,Cuba,Cuba,2785.0,10925362.0,7542560.0
+1996,28,Ireland,3,0,1,4,Ireland,Ireland,Ireland,19316.0,3608841.0,2324104.0
+1996,29,Sweden,2,4,2,8,Sweden,Sweden,Sweden,30520.0,8826939.0,5621611.0
+1996,30,Norway,2,2,3,7,Norway,Norway,Norway,34875.0,4359184.0,2815261.0
+1996,31,Belgium,2,2,2,6,Belgium,Belgium,Belgium,28531.0,10136811.0,6703399.0
+1996,32,Nigeria,2,1,3,6,Nigeria,Nigeria,Nigeria,467.0,110819428.0,58186776.0
+1996,61,Philippines,0,1,0,1,Philippines,Philippines,Philippines,1222.0,70546246.0,39554640.0
+1996,61,Tonga,0,1,0,1,Tonga,Tonga,Tonga,2089.0,100225.0,55207.0
+1996,61,Zambia,0,1,0,1,Zambia,Zambia,Zambia,438.0,8785763.0,4316179.0
+1996,16,Greece,4,4,0,8,Greece,Greece,Greece,12760.0,10562153.0,7092061.0
+1996,13,Spain,5,6,6,17,Spain,Spain,Spain,15437.0,39724050.0,27139001.0
+1996,2,Russia,26,21,16,63,Russia,Russian Federation,Russian Federation,2708.0,148375787.0,99339855.0
+2000,69,Costa Rica,0,0,2,2,Costa Rica,Costa Rica,Costa Rica,3239.0,3535176.0,2151394.0
+2000,69,Portugal,0,0,2,2,Portugal,Portugal,Portugal,11752.0,10026176.0,6744876.0
+2000,71,Armenia,0,0,1,1,Armenia,Armenia,Armenia,413.0,3307581.0,2008317.0
+2000,71,Barbados,0,0,1,1,Barbados,Barbados,Barbados,8757.0,262039.0,172976.0
+2000,71,Chile,0,0,1,1,Chile,Chile,Chile,5209.0,14527381.0,9322900.0
+2000,57,Argentina,0,2,2,4,Argentina,Argentina,Argentina,8004.0,35070020.0,21541885.0
+2000,71,Kuwait,0,0,1,1,Kuwait,Kuwait,Kuwait,16043.0,1681513.0,1097686.0
+2000,71,Qatar,0,0,1,1,Qatar,Qatar,Qatar,15798.0,514325.0,373883.0
+2000,64,Sri Lanka,0,1,0,1,Sri Lanka,Sri Lanka,Sri Lanka,841.0,17564068.0,11368339.0
+2000,34,Azerbaijan,2,0,1,3,Azerbaijan,Azerbaijan,Azerbaijan,391.0,7684850.0,4720767.0
+2000,36,Slovenia,2,0,0,2,Slovenia,Slovenia,Slovenia,10724.0,1989872.0,1381978.0
+2000,37,Switzerland,1,6,2,9,Switzerland,Switzerland,Switzerland,50132.0,7040687.0,4760577.0
+2000,38,Indonesia,1,3,2,6,Indonesia,Indonesia,Indonesia,1188.0,199888057.0,124515992.0
+2000,55,Belgium,0,2,3,5,Belgium,Belgium,Belgium,28531.0,10136811.0,6703399.0
+2000,55,South Africa,0,2,3,5,South Africa,South Africa,South Africa,3904.0,44541554.0,25975756.0
+2000,49,Croatia,1,0,1,2,Croatia,Croatia,Croatia,4710.0,4620030.0,3154495.0
+2000,42,Algeria,1,1,3,5,Algeria,Algeria,Algeria,1474.0,28470191.0,16274494.0
+2000,43,Uzbekistan,1,1,2,4,Uzbekistan,Uzbekistan,Uzbekistan,703.0,22917589.0,12922700.0
+2000,44,Latvia,1,1,1,3,Latvia,Latvia,Latvia,2104.0,2485056.0,1632448.0
+2000,46,New Zealand,1,0,3,4,New Zealand,New Zealand,New Zealand,17189.0,3673400.0,2403555.0
+2000,61,Trinidad and Tobago,0,1,1,2,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,4301.0,1295169.0,836353.0
+2000,64,Ireland,0,1,0,1,Ireland,Ireland,Ireland,19316.0,3608841.0,2324104.0
+2000,50,Cameroon,1,0,0,1,Cameroon,Cameroon,Cameroon,822.0,13058516.0,6611367.0
+2000,50,Colombia,1,0,0,1,Colombia,Colombia,Colombia,3046.0,35804662.0,21981200.0
+2000,50,Mozambique,1,0,0,1,Mozambique,Mozambique,Mozambique,196.0,15960530.0,8316221.0
+2000,53,Brazil,0,6,6,12,Brazil,Brazil,Brazil,4781.0,161735073.0,101167654.0
+2000,54,Jamaica,0,6,3,9,Jamaica,Jamaica,Jamaica,2621.0,2500151.0,1457214.0
+2000,31,Finland,2,1,1,4,Finland,Finland,Finland,26270.0,5107790.0,3409669.0
+2000,32,Austria,2,1,0,3,Austria,Austria,Austria,30332.0,7948278.0,5328594.0
+2000,29,Kenya,2,3,2,7,Kenya,Kenya,Kenya,547.0,26601751.0,13323165.0
+2000,18,Sweden,4,5,3,12,Sweden,Sweden,Sweden,30520.0,8826939.0,5621611.0
+2000,19,Norway,4,3,3,10,Norway,Norway,Norway,34875.0,4359184.0,2815261.0
+2000,20,Ethiopia,4,1,3,8,Ethiopia,Ethiopia,Ethiopia,132.0,57537335.0,29114955.0
+2000,30,Denmark,2,3,1,6,Denmark,Denmark,Denmark,35339.0,5233373.0,3525949.0
+2000,23,Belarus,3,3,11,17,Belarus,Belarus,Belarus,1369.0,10193831.0,6700380.0
+2000,24,Canada,3,3,8,14,Canada,Canada,Canada,20688.0,29302311.0,19816807.0
+2000,17,Greece,4,6,3,13,Greece,Greece,Greece,12760.0,10562153.0,7092061.0
+2000,9,Cuba,11,11,7,29,Cuba,Cuba,Cuba,2785.0,10925362.0,7542560.0
+2000,10,Great Britain,11,10,7,28,Great Britain,United Kingdom,United Kingdom,23206.0,58019030.0,37429998.0
+2000,4,Australia,16,25,17,58,Australia,Australia,Australia,21780.0,18004882.0,11994523.0
+2000,2,Russia,32,28,29,89,Russia,Russian Federation,Russian Federation,2708.0,148375787.0,99339855.0
+2000,13,Hungary,8,6,3,17,Hungary,Hungary,Hungary,4497.0,10328965.0,6985555.0
+2000,16,Bulgaria,5,6,2,13,Bulgaria,Bulgaria,Bulgaria,2240.0,8406067.0,5632322.0
+2000,15,Japan,5,8,5,18,Japan,Japan,Japan,44211.0,125472000.0,87457274.0
+2000,22,Kazakhstan,3,4,0,7,Kazakhstan,Kazakhstan,Kazakhstan,1251.0,16730536.0,10531684.0
+2000,21,Ukraine,3,10,10,23,Ukraine,Ukraine,Ukraine,987.0,51665539.0,34140299.0
+2000,14,Poland,6,5,3,14,Poland,Poland,Poland,3705.0,38594998.0,25490654.0
+2000,11,Romania,11,6,9,26,Romania,Romania,Romania,1661.0,22684270.0,15306677.0
+2000,33,Lithuania,2,0,3,5,Lithuania,Lithuania,Lithuania,1788.0,3629102.0,2392434.0
+2000,47,Thailand,1,0,2,3,Thailand,Thailand,Thailand,2849.0,59098232.0,40348975.0
+2000,47,Estonia,1,0,2,3,Estonia,Estonia,Estonia,3081.0,1436634.0,945131.0
+2000,3,China,28,16,14,58,China,China,China,603.0,1204855000.0,801384577.0
+2000,5,Germany,13,17,26,56,Germany,Germany,Germany,31873.0,81678051.0,55828044.0
+2000,64,Uruguay,0,1,0,1,Uruguay,Uruguay,Uruguay,6643.0,3189440.0,2006087.0
+2000,64,Vietnam,0,1,0,1,Vietnam,Viet Nam,Viet Nam,281.0,72049940.0,42047515.0
+2000,68,Georgia,0,0,6,6,Georgia,Georgia,Georgia,583.0,4657722.0,2995005.0
+2000,61,Saudi Arabia,0,1,1,2,Saudi Arabia,Saudi Arabia,Saudi Arabia,7579.0,13289245.0,7537663.0
+2000,58,Morocco,0,1,4,5,Morocco,Morocco,Morocco,1456.0,26399429.0,15635638.0
+2000,6,France,13,14,11,38,France,France,France,27029.0,59541294.0,38925506.0
+2000,25,Spain,3,3,5,11,Spain,Spain,Spain,15437.0,39724050.0,27139001.0
+2000,71,Iceland,0,0,1,1,Iceland,Iceland,Iceland,26612.0,267468.0,172111.0
+2000,71,India,0,0,1,1,India,India,India,386.0,960301044.0,561470150.0
+2000,71,Israel,0,0,1,1,Israel,Israel,Israel,19221.0,5545000.0,3368248.0
+2000,7,Italy,13,8,13,34,Italy,Italy,Italy,20650.0,56844303.0,38860972.0
+2000,40,Mexico,1,2,3,6,Mexico,Mexico,Mexico,4225.0,90862455.0,53682751.0
+2000,41,Nigeria,1,2,0,3,Nigeria,Nigeria,Nigeria,467.0,110819428.0,58186776.0
+2004,45,Lithuania,1,2,0,3,Lithuania,Lithuania,Lithuania,7741.0,3322528.0,2229895.0
+2004,44,Croatia,1,2,2,5,Croatia,Croatia,Croatia,10347.0,4310145.0,2874169.0
+2004,27,Austria,2,4,1,7,Austria,Austria,Austria,38406.0,8227829.0,5576283.0
+2004,41,Kenya,1,4,2,7,Kenya,Kenya,Kenya,657.0,35796484.0,19137524.0
+2004,40,Kazakhstan,1,4,3,8,Kazakhstan,Kazakhstan,Kazakhstan,3649.0,15968117.0,10812033.0
+2004,39,Chile,2,0,1,3,Chile,Chile,Chile,7602.0,16348778.0,10923684.0
+2004,38,Argentina,2,0,4,6,Argentina,Argentina,Argentina,5135.0,39216789.0,24744244.0
+2004,52,Israel,1,0,1,2,Israel,Israel,Israel,21910.0,6930100.0,4309856.0
+2004,51,Belgium,1,0,2,3,Belgium,Belgium,Belgium,36661.0,10478617.0,6878738.0
+2004,65,India,0,1,0,1,India,India,India,713.0,1154676322.0,713167418.0
+2004,64,Estonia,0,1,2,3,Estonia,Estonia,Estonia,10412.0,1354775.0,922211.0
+2004,63,Slovenia,0,1,3,4,Slovenia,Slovenia,Slovenia,18059.0,2000474.0,1408337.0
+2004,13,Ukraine,8,5,9,22,Ukraine,Ukraine,Ukraine,1902.0,47585556.0,33293756.0
+2004,12,Hungary,8,6,3,17,Hungary,Hungary,Hungary,11238.0,10087065.0,6951085.0
+2004,4,Australia,17,16,17,50,Australia,Australia,Australia,37843.0,20176844.0,13589360.0
+2004,5,Japan,16,9,12,37,Japan,Japan,Japan,37805.0,127773000.0,84286399.0
+2004,6,Germany,13,16,20,49,Germany,Germany,Germany,35041.0,82469422.0,54964326.0
+2004,7,France,11,9,13,33,France,France,France,35117.0,63180854.0,41105162.0
+2004,8,Italy,10,11,11,32,Italy,Italy,Italy,31915.0,58166682.0,38533763.0
+2004,21,Canada,3,6,3,12,Canada,Canada,Canada,36415.0,32242732.0,22326837.0
+2004,20,Spain,3,11,6,20,Spain,Spain,Spain,26399.0,43653155.0,30098145.0
+2004,35,Jamaica,2,1,2,5,Jamaica,Jamaica,Jamaica,4200.0,2687066.0,1711611.0
+2004,50,Azerbaijan,1,0,4,5,Azerbaijan,Azerbaijan,Azerbaijan,1530.0,8391850.0,5731548.0
+2004,49,Zimbabwe,1,1,1,3,Zimbabwe,Zimbabwe,Zimbabwe,588.0,12483432.0,6851394.0
+2004,48,Indonesia,1,1,2,4,Indonesia,Indonesia,Indonesia,1330.0,230871650.0,151013392.0
+2004,46,Switzerland,1,1,3,5,Switzerland,Switzerland,Switzerland,56310.0,7437115.0,5057797.0
+2004,61,Finland,0,2,0,2,Finland,Finland,Finland,39040.0,5246096.0,3499375.0
+2004,60,Portugal,0,2,1,3,Portugal,Portugal,Portugal,18737.0,10503330.0,7017174.0
+2004,43,South Africa,1,3,2,6,South Africa,South Africa,South Africa,5893.0,49490033.0,31592535.0
+2004,58,Latvia,0,4,0,4,Latvia,Latvia,Latvia,7614.0,2238799.0,1531395.0
+2004,54,United Arab Emirates,1,0,0,1,United Arab Emirates,United Arab Emirates,United Arab Emirates,42742.0,4664790.0,3766458.0
+2004,54,Dominican Republic,1,0,0,1,Dominican Republic,Dominican Republic,Dominican Republic,3875.0,9225034.0,5725383.0
+2004,54,Cameroon,1,0,0,1,Cameroon,Cameroon,Cameroon,1129.0,17074594.0,9007186.0
+2004,68,Nigeria,0,0,2,2,Nigeria,Nigeria,Nigeria,1254.0,145017253.0,76850136.0
+2004,68,Colombia,0,0,2,2,Colombia,Colombia,Colombia,3449.0,42128977.0,27226917.0
+2004,71,Syria,0,0,1,1,Syria,Syrian Arab Republic,Syrian Arab Republic,1528.0,18814091.0,10820833.0
+2004,71,Mongolia,0,0,1,1,Mongolia,Mongolia,Mongolia,1143.0,2536407.0,1687547.0
+2004,71,Eritrea,0,0,1,1,Eritrea,Eritrea,Eritrea,388.0,2661215.0,1428590.0
+2004,59,Mexico,0,3,1,4,Mexico,Mexico,Mexico,8702.0,105811504.0,65870973.0
+2004,71,Trinidad and Tobago,0,0,1,1,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,12363.0,1294494.0,939818.0
+2004,32,Georgia,2,2,0,4,Georgia,Georgia,Georgia,1703.0,3902469.0,2582162.0
+2004,33,Bulgaria,2,1,9,12,Bulgaria,Bulgaria,Bulgaria,3822.0,7658972.0,5284146.0
+2004,34,Denmark,2,1,5,8,Denmark,Denmark,Denmark,48648.0,5419432.0,3584505.0
+2004,19,Sweden,4,2,1,7,Sweden,Sweden,Sweden,43331.0,9029572.0,5897414.0
+2004,35,Uzbekistan,2,1,2,5,Uzbekistan,Uzbekistan,Uzbekistan,643.0,26356975.0,16537535.0
+2004,37,Morocco,2,1,0,3,Morocco,Morocco,Morocco,2055.0,30358144.0,19436470.0
+2004,23,Poland,3,2,5,10,Poland,Poland,Poland,7936.0,38165445.0,26823618.0
+2004,24,New Zealand,3,2,0,5,New Zealand,New Zealand,New Zealand,27759.0,4133900.0,2746709.0
+2004,25,Thailand,3,1,4,8,Thailand,Thailand,Thailand,2876.0,66017420.0,46459619.0
+2004,26,Belarus,2,5,6,13,Belarus,Belarus,Belarus,3144.0,9663915.0,6742088.0
+2004,11,Cuba,9,7,11,27,Cuba,Cuba,Cuba,3792.0,11262554.0,7826719.0
+2004,28,Ethiopia,2,3,2,7,Ethiopia,Ethiopia,Ethiopia,157.0,78367470.0,39129986.0
+2004,14,Romania,8,5,6,19,Romania,Romania,Romania,4668.0,21319685.0,14731322.0
+2004,15,Greece,6,6,4,16,Greece,Greece,Greece,22295.0,10987314.0,7325957.0
+2004,16,Brazil,5,2,3,10,Brazil,Brazil,Brazil,4773.0,184688101.0,123940957.0
+2004,17,Norway,5,0,1,6,Norway,Norway,Norway,67041.0,4623291.0,3035207.0
+2004,3,Russia,28,26,36,90,Russia,Russian Federation,Russian Federation,5365.0,143518814.0,101961173.0
+2004,10,Great Britain,9,9,12,30,Great Britain,United Kingdom,United Kingdom,42117.0,60401206.0,39782765.0
+2004,2,China,32,17,14,63,China,China,China,1752.0,1303720000.0,936278295.0
+2004,65,Paraguay,0,1,0,1,Paraguay,Paraguay,Paraguay,2064.0,5448097.0,3257016.0
+2008,10,France,7,16,20,43,France,France,France,40926.0,65026211.0,42063238.0
+2008,33,Mongolia,2,2,0,4,Mongolia,Mongolia,Mongolia,2660.0,2738622.0,1869432.0
+2008,3,Russia,24,13,23,60,Russia,Russian Federation,Russian Federation,10750.0,142849468.0,103034385.0
+2008,4,Great Britain,19,13,19,51,Great Britain,United Kingdom,United Kingdom,39603.0,62766365.0,41364955.0
+2008,18,Romania,4,1,4,9,Romania,Romania,Romania,8361.0,20246871.0,13851476.0
+2008,82,Afghanistan,0,0,1,1,Afghanistan,Afghanistan,Afghanistan,537.0,28284089.0,13923141.0
+2008,35,Argentina,2,0,4,6,Argentina,Argentina,Argentina,10377.0,41288694.0,26390623.0
+2008,37,Belgium,2,0,0,2,Belgium,Belgium,Belgium,44213.0,10895586.0,7184817.0
+2008,36,Mexico,2,0,2,4,Mexico,Mexico,Mexico,9823.0,113623895.0,72867533.0
+2008,39,Slovenia,1,2,2,5,Slovenia,Slovenia,Slovenia,23410.0,2048583.0,1423651.0
+2008,40,Azerbaijan,1,1,4,6,Azerbaijan,Azerbaijan,Azerbaijan,5727.0,9054332.0,6501079.0
+2008,72,Samoa,0,1,0,1,Samoa,Samoa,Samoa,3589.0,193023.0,109402.0
+2008,72,Malaysia,0,1,0,1,Malaysia,Malaysia,Malaysia,8880.0,28655776.0,19231028.0
+2008,27,New Zealand,3,2,4,9,New Zealand,New Zealand,New Zealand,33711.0,4350700.0,2878163.0
+2008,28,Georgia,3,2,2,7,Georgia,Georgia,Georgia,3191.0,3786695.0,2563390.0
+2008,5,Germany,16,11,14,41,Germany,Germany,Germany,41763.0,81776930.0,53759044.0
+2008,6,Australia,14,15,17,46,Australia,Australia,Australia,59100.0,22031750.0,14849809.0
+2008,8,Japan,9,8,8,25,Japan,Japan,Japan,44956.0,128070000.0,81364210.0
+2008,31,Thailand,2,2,2,6,Thailand,Thailand,Thailand,4996.0,68579447.0,48884392.0
+2008,30,Denmark,2,2,3,7,Denmark,Denmark,Denmark,58008.0,5547683.0,3630980.0
+2008,29,Kazakhstan,2,3,4,9,Kazakhstan,Kazakhstan,Kazakhstan,8904.0,16836810.0,11469881.0
+2008,17,Ethiopia,4,2,1,7,Ethiopia,Ethiopia,Ethiopia,295.0,90538514.0,46669637.0
+2008,14,Spain,5,11,3,19,Spain,Spain,Spain,30505.0,46576897.0,31758916.0
+2008,19,Cuba,3,10,17,30,Cuba,Cuba,Cuba,5698.0,11297409.0,7867466.0
+2008,20,Canada,3,9,8,20,Canada,Canada,Canada,47618.0,34005902.0,23575491.0
+2008,24,Belarus,3,4,7,14,Belarus,Belarus,Belarus,5881.0,9483836.0,6753098.0
+2008,23,Brazil,3,4,10,17,Brazil,Brazil,Brazil,11249.0,193701929.0,132928646.0
+2008,22,Norway,3,5,1,9,Norway,Norway,Norway,88154.0,4889252.0,3237094.0
+2008,21,Hungary,3,5,2,10,Hungary,Hungary,Hungary,13235.0,10000023.0,6880082.0
+2008,13,Kenya,6,4,6,16,Kenya,Kenya,Kenya,1094.0,41598567.0,22580905.0
+2008,12,Ukraine,7,4,11,22,Ukraine,Ukraine,Ukraine,2977.0,46456003.0,32978593.0
+2008,15,Jamaica,5,4,2,11,Jamaica,Jamaica,Jamaica,4836.0,2748568.0,1843404.0
+2008,16,Poland,4,5,2,11,Poland,Poland,Poland,12325.0,38042794.0,27145750.0
+2008,72,Chile,0,1,0,1,Chile,Chile,Chile,12852.0,17181464.0,11762321.0
+2008,68,Tajikistan,0,1,1,2,Tajikistan,Tajikistan,Tajikistan,740.0,7652141.0,4591141.0
+2008,68,Algeria,0,1,1,2,Algeria,Algeria,Algeria,4496.0,36188236.0,24480684.0
+2008,64,Serbia,0,1,2,3,Serbia,Serbia,Serbia,5464.0,7291436.0,4970062.0
+2008,1,China,48,22,30,100,China,China,China,4515.0,1337705000.0,974711775.0
+2008,9,Italy,8,9,10,27,Italy,Italy,Italy,35673.0,59819407.0,39184696.0
+2008,72,Singapore,0,1,0,1,Singapore,Singapore,Singapore,46442.0,5076732.0,3986722.0
+2008,72,South Africa,0,1,0,1,South Africa,South Africa,South Africa,8060.0,52344051.0,34206540.0
+2008,72,Sudan,0,1,0,1,Sudan,Sudan,Sudan,1622.0,35414399.0,18698948.0
+2008,72,Vietnam,0,1,0,1,Vietnam,Viet Nam,Viet Nam,1684.0,87455152.0,60667277.0
+2008,68,Morocco,0,1,1,2,Morocco,Morocco,Morocco,2970.0,32467016.0,21309103.0
+2008,72,Ecuador,0,1,0,1,Ecuador,Ecuador,Ecuador,4640.0,15076695.0,9471852.0
+2008,82,Israel,0,0,1,1,Israel,Israel,Israel,32601.0,7623600.0,4736585.0
+2008,82,Mauritius,0,0,1,1,Mauritius,Mauritius,Mauritius,7795.0,1250400.0,896752.0
+2008,82,Togo,0,0,1,1,Togo,Togo,Togo,722.0,6732590.0,3748632.0
+2008,72,Iceland,0,1,0,1,Iceland,Iceland,Iceland,43197.0,318041.0,212881.0
+2008,57,Nigeria,0,3,2,5,Nigeria,Nigeria,Nigeria,2258.0,166642886.0,87598442.0
+2008,47,Trinidad and Tobago,1,1,0,2,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,16667.0,1317714.0,968123.0
+2008,64,Ireland,0,1,2,3,Ireland,Ireland,Ireland,48998.0,4560155.0,3079628.0
+2008,62,Armenia,0,1,4,5,Armenia,Armenia,Armenia,3352.0,3044800.0,2130464.0
+2008,63,Uzbekistan,0,1,3,4,Uzbekistan,Uzbekistan,Uzbekistan,1748.0,28385506.0,18809111.0
+2008,64,Austria,0,1,2,3,Austria,Austria,Austria,46861.0,8363404.0,5646956.0
+2008,57,Lithuania,0,3,2,5,Lithuania,Lithuania,Lithuania,11831.0,3097282.0,2089675.0
+2008,42,Bulgaria,1,1,3,5,Bulgaria,Bulgaria,Bulgaria,6676.0,7395599.0,5058285.0
+2008,59,Croatia,0,2,3,5,Croatia,Croatia,Croatia,13918.0,4295427.0,2870587.0
+2008,60,Colombia,0,2,1,3,Colombia,Colombia,Colombia,6394.0,44777319.0,29865872.0
+2008,34,Switzerland,2,1,4,7,Switzerland,Switzerland,Switzerland,76556.0,7824909.0,5322134.0
+2008,47,Dominican Republic,1,1,0,2,Dominican Republic,Dominican Republic,Dominican Republic,5438.0,9820175.0,6291564.0
+2008,46,Latvia,1,1,1,3,Latvia,Latvia,Latvia,11403.0,2097555.0,1417281.0
+2008,47,Estonia,1,1,0,2,Estonia,Estonia,Estonia,14671.0,1331475.0,896398.0
+2008,40,Indonesia,1,1,4,6,Indonesia,Indonesia,Indonesia,3094.0,246305322.0,163044947.0
+2008,38,Zimbabwe,1,3,0,4,Zimbabwe,Zimbabwe,Zimbabwe,938.0,13356548.0,7193677.0
+2008,44,Finland,1,1,2,4,Finland,Finland,Finland,46461.0,5363352.0,3549654.0
+2008,53,Tunisia,1,0,0,1,Tunisia,Tunisia,Tunisia,4043.0,10765980.0,7461528.0
+2008,56,Sweden,0,4,1,5,Sweden,Sweden,Sweden,52849.0,9378126.0,6106870.0
+2008,53,Panama,1,0,0,1,Panama,Panama,Panama,8204.0,3628535.0,2341311.0
+2008,47,Portugal,1,1,0,2,Portugal,Portugal,Portugal,22466.0,10573100.0,7009452.0
+2008,51,India,1,0,2,3,India,India,India,1346.0,1243481564.0,792311454.0
+2008,53,Cameroon,1,0,0,1,Cameroon,Cameroon,Cameroon,1382.0,19668066.0,10481253.0
+2008,60,Greece,0,2,1,3,Greece,Greece,Greece,26902.0,11121341.0,7363315.0
+2012,42,Trinidad and Tobago,1,1,2,4,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,16667.0,1317714.0,968123.0
+2012,42,Slovenia,1,1,2,4,Slovenia,Slovenia,Slovenia,23410.0,2048583.0,1423651.0
+2012,42,Serbia,1,1,2,4,Serbia,Serbia,Serbia,5464.0,7291436.0,4970062.0
+2012,42,Argentina,1,1,2,4,Argentina,Argentina,Argentina,10377.0,41288694.0,26390623.0
+2012,6,Germany,11,20,13,44,Germany,Germany,Germany,41763.0,81776930.0,53759044.0
+2012,40,Georgia,1,2,3,6,Georgia,Georgia,Georgia,3191.0,3786695.0,2563390.0
+2012,48,Latvia,1,0,1,2,Latvia,Latvia,Latvia,11403.0,2097555.0,1417281.0
+2012,32,Azerbaijan,2,2,5,9,Azerbaijan,Azerbaijan,Azerbaijan,5727.0,9054332.0,6501079.0
+2012,47,Dominican Republic,1,1,0,2,Dominican Republic,Dominican Republic,Dominican Republic,5438.0,9820175.0,6291564.0
+2012,10,Hungary,8,4,6,18,Hungary,Hungary,Hungary,13235.0,10000023.0,6880082.0
+2012,11,Japan,7,14,17,38,Japan,Japan,Japan,44956.0,128070000.0,81364210.0
+2012,14,New Zealand,6,2,5,13,New Zealand,New Zealand,New Zealand,33711.0,4350700.0,2878163.0
+2012,25,Ethiopia,3,2,3,8,Ethiopia,Ethiopia,Ethiopia,295.0,90538514.0,46669637.0
+2012,70,Gabon,0,1,0,1,Gabon,Gabon,Gabon,8391.0,1719879.0,1004904.0
+2012,79,Vietnam,0,0,1,1,Vietnam,Viet Nam,Viet Nam,1684.0,87455152.0,60667277.0
+2012,70,Botswana,0,1,0,1,Botswana,Botswana,Botswana,6042.0,2033111.0,1271227.0
+2012,70,Cyprus,0,1,0,1,Cyprus,Cyprus,Cyprus,31075.0,1127816.0,808588.0
+2012,59,Thailand,0,2,2,4,Thailand,Thailand,Thailand,4996.0,68579447.0,48884392.0
+2012,57,India,0,2,4,6,India,India,India,1346.0,1243481564.0,792311454.0
+2012,58,Mongolia,0,2,3,5,Mongolia,Mongolia,Mongolia,2660.0,2738622.0,1869432.0
+2012,65,Malaysia,0,1,1,2,Malaysia,Malaysia,Malaysia,8880.0,28655776.0,19231028.0
+2012,65,Qatar,0,1,1,2,Qatar,Qatar,Qatar,73021.0,1616832.0,1378341.0
+2012,50,Uganda,1,0,0,1,Uganda,Uganda,Uganda,949.0,32390802.0,15726955.0
+2012,50,Grenada,1,0,0,1,Grenada,Grenada,Grenada,6761.0,111586.0,74047.0
+2012,50,Bahrain,1,0,0,1,Bahrain,Bahrain,Bahrain,21187.0,1228543.0,951725.0
+2012,77,Greece,0,0,2,2,Greece,Greece,Greece,26902.0,11121341.0,7363315.0
+2012,79,Afghanistan,0,0,1,1,Afghanistan,Afghanistan,Afghanistan,537.0,28284089.0,13923141.0
+2012,60,Bulgaria,0,2,1,3,Bulgaria,Bulgaria,Bulgaria,6676.0,7395599.0,5058285.0
+2012,60,Finland,0,2,1,3,Finland,Finland,Finland,46461.0,5363352.0,3549654.0
+2012,77,Singapore,0,0,2,2,Singapore,Singapore,Singapore,46442.0,5076732.0,3986722.0
+2012,70,Guatemala,0,1,0,1,Guatemala,Guatemala,Guatemala,2797.0,14500112.0,8239254.0
+2012,64,Belgium,0,1,2,3,Belgium,Belgium,Belgium,44213.0,10895586.0,7184817.0
+2012,79,Cameroon,0,0,1,1,Cameroon,Cameroon,Cameroon,1382.0,19668066.0,10481253.0
+2012,7,France,11,11,13,35,France,France,France,40926.0,65026211.0,42063238.0
+2012,26,Croatia,3,1,2,6,Croatia,Croatia,Croatia,13918.0,4295427.0,2870587.0
+2012,79,Kuwait,0,0,1,1,Kuwait,Kuwait,Kuwait,39212.0,2943372.0,2213073.0
+2012,39,Mexico,1,3,4,8,Mexico,Mexico,Mexico,9823.0,113623895.0,72867533.0
+2012,79,Morocco,0,0,1,1,Morocco,Morocco,Morocco,2970.0,32467016.0,21309103.0
+2012,79,Saudi Arabia,0,0,1,1,Saudi Arabia,Saudi Arabia,Saudi Arabia,17959.0,23978487.0,16779841.0
+2012,79,Tajikistan,0,0,1,1,Tajikistan,Tajikistan,Tajikistan,740.0,7652141.0,4591141.0
+2012,34,Norway,2,1,1,4,Norway,Norway,Norway,88154.0,4889252.0,3237094.0
+2012,28,Belarus,2,5,3,10,Belarus,Belarus,Belarus,5881.0,9483836.0,6753098.0
+2012,29,Kenya,2,4,7,13,Kenya,Kenya,Kenya,1094.0,41598567.0,22580905.0
+2012,30,Denmark,2,4,3,9,Denmark,Denmark,Denmark,58008.0,5547683.0,3630980.0
+2012,27,Canada,2,6,10,18,Canada,Canada,Canada,47618.0,34005902.0,23575491.0
+2012,23,Poland,3,2,6,11,Poland,Poland,Poland,12325.0,38042794.0,27145750.0
+2012,41,Ireland,1,1,4,6,Ireland,Ireland,Ireland,48998.0,4560155.0,3079628.0
+2012,35,Lithuania,2,0,3,5,Lithuania,Lithuania,Lithuania,11831.0,3097282.0,2089675.0
+2012,8,Australia,8,15,12,35,Australia,Australia,Australia,59100.0,22031750.0,14849809.0
+2012,36,Tunisia,2,0,1,3,Tunisia,Tunisia,Tunisia,4043.0,10765980.0,7461528.0
+2012,37,Sweden,1,4,3,8,Sweden,Sweden,Sweden,52849.0,9378126.0,6106870.0
+2012,38,Colombia,1,3,5,9,Colombia,Colombia,Colombia,6394.0,44777319.0,29865872.0
+2012,70,Montenegro,0,1,0,1,Montenegro,Montenegro,Montenegro,6559.0,619428.0,417838.0
+2012,70,Portugal,0,1,0,1,Portugal,Portugal,Portugal,22466.0,10573100.0,7009452.0
+2012,76,Uzbekistan,0,0,3,3,Uzbekistan,Uzbekistan,Uzbekistan,1748.0,28385506.0,18809111.0
+2012,50,Algeria,1,0,0,1,Algeria,Algeria,Algeria,4496.0,36188236.0,24480684.0
+2012,2,China,39,31,22,92,China,China,China,4515.0,1337705000.0,974711775.0
+2012,22,Brazil,3,5,9,17,Brazil,Brazil,Brazil,11249.0,193701929.0,132928646.0
+2012,9,Italy,8,9,11,28,Italy,Italy,Italy,35673.0,59819407.0,39184696.0
+2012,23,Kazakhstan,3,2,6,11,Kazakhstan,Kazakhstan,Kazakhstan,8904.0,16836810.0,11469881.0
+2012,20,South Africa,4,1,1,6,South Africa,South Africa,South Africa,8060.0,52344051.0,34206540.0
+2012,31,Romania,2,4,1,7,Romania,Romania,Romania,8361.0,20246871.0,13851476.0
+2012,4,Russia,18,20,26,64,Russia,Russian Federation,Russian Federation,10750.0,142849468.0,103034385.0
+2012,3,Great Britain,29,18,18,65,Great Britain,United Kingdom,United Kingdom,39603.0,62766365.0,41364955.0
+2012,33,Switzerland,2,2,0,4,Switzerland,Switzerland,Switzerland,76556.0,7824909.0,5322134.0
+2012,16,Cuba,5,3,7,15,Cuba,Cuba,Cuba,5698.0,11297409.0,7867466.0
+2012,17,Spain,4,10,6,20,Spain,Spain,Spain,30505.0,46576897.0,31758916.0
+2012,18,Jamaica,4,5,4,13,Jamaica,Jamaica,Jamaica,4836.0,2748568.0,1843404.0
+2012,60,Indonesia,0,2,1,3,Indonesia,Indonesia,Indonesia,3094.0,246305322.0,163044947.0
+2012,65,Armenia,0,1,1,2,Armenia,Armenia,Armenia,3352.0,3044800.0,2130464.0
+2012,65,Estonia,0,1,1,2,Estonia,Estonia,Estonia,14671.0,1331475.0,896398.0
+2012,15,Ukraine,5,4,10,19,Ukraine,Ukraine,Ukraine,2977.0,46456003.0,32978593.0
+2016,15,Kenya,6,6,1,13,Kenya,Kenya,Kenya,1497.0,47088526.0,26161395.0
+2016,74,Norway,0,0,4,4,Norway,Norway,Norway,74785.0,5188607.0,3411213.0
+2016,69,Philippines,0,1,0,1,Philippines,Philippines,Philippines,2974.0,105312992.0,66018180.0
+2016,78,United Arab Emirates,0,0,1,1,United Arab Emirates,United Arab Emirates,United Arab Emirates,41525.0,8505237.0,6945735.0
+2016,48,Vietnam,1,1,0,2,Vietnam,Viet Nam,Viet Nam,2595.0,92823254.0,64564555.0
+2016,38,Georgia,2,1,4,7,Georgia,Georgia,Georgia,3965.0,3725276.0,2474924.0
+2016,48,Bahrain,1,1,0,2,Bahrain,Bahrain,Bahrain,22795.0,1370322.0,1053811.0
+2016,78,Portugal,0,0,1,1,Portugal,Portugal,Portugal,19229.0,10358076.0,6745903.0
+2016,63,Ireland,0,2,0,2,Ireland,Ireland,Ireland,62636.0,4701957.0,3083156.0
+2016,78,Nigeria,0,0,1,1,Nigeria,Nigeria,Nigeria,2688.0,190671878.0,100501396.0
+2016,78,Morocco,0,0,1,1,Morocco,Morocco,Morocco,3184.0,34607588.0,22886246.0
+2016,61,Mexico,0,3,2,5,Mexico,Mexico,Mexico,10098.0,121072306.0,79146660.0
+2016,46,Indonesia,1,2,0,3,Indonesia,Indonesia,Indonesia,3323.0,261799249.0,175281115.0
+2016,63,Algeria,0,2,0,2,Algeria,Algeria,Algeria,4197.0,40019529.0,26317773.0
+2016,7,France,10,18,14,42,France,France,France,36931.0,66548272.0,41861133.0
+2016,45,Slovenia,1,2,1,4,Slovenia,Slovenia,Slovenia,20708.0,2063531.0,1385826.0
+2016,9,Italy,8,12,8,28,Italy,Italy,Italy,30480.0,60229605.0,38706320.0
+2016,5,Germany,17,10,15,42,Germany,Germany,Germany,40893.0,81686611.0,53697948.0
+2016,35,Thailand,2,2,2,6,Thailand,Thailand,Thailand,5709.0,70540795.0,50484864.0
+2016,4,Russia,19,17,20,56,Russia,Russian Federation,Russian Federation,9425.0,144640716.0,100685440.0
+2016,39,Azerbaijan,1,7,10,18,Azerbaijan,Azerbaijan,Azerbaijan,5381.0,9649341.0,6827112.0
+2016,30,Kazakhstan,2,5,10,17,Kazakhstan,Kazakhstan,Kazakhstan,10338.0,18084169.0,11856858.0
+2016,25,Greece,3,1,2,6,Greece,Greece,Greece,18100.0,10820883.0,6972557.0
+2016,22,Colombia,3,2,3,8,Colombia,Colombia,Colombia,6228.0,46969940.0,32128090.0
+2016,27,Denmark,2,6,7,15,Denmark,Denmark,Denmark,53308.0,5683483.0,3659047.0
+2016,78,Austria,0,0,1,1,Austria,Austria,Austria,44179.0,8642699.0,5810894.0
+2016,69,Grenada,0,1,0,1,Grenada,Grenada,Grenada,8380.0,114676.0,77484.0
+2016,78,Trinidad and Tobago,0,0,1,1,Trinidad and Tobago,Trinidad and Tobago,Trinidad and Tobago,18509.0,1349667.0,977025.0
+2016,78,Estonia,0,0,1,1,Estonia,Estonia,Estonia,17405.0,1315407.0,856289.0
+2016,54,Jordan,1,0,0,1,Jordan,Jordan,Jordan,4064.0,9544729.0,5905533.0
+2016,65,Lithuania,0,1,3,4,Lithuania,Lithuania,Lithuania,13975.0,2911109.0,1936068.0
+2016,77,Israel,0,0,2,2,Israel,Israel,Israel,37804.0,8380100.0,5090003.0
+2016,75,Tunisia,0,0,3,3,Tunisia,Tunisia,Tunisia,3961.0,11402264.0,7790714.0
+2016,54,Kosovo,1,0,0,1,Kosovo,Kosovo,Kosovo,3578.0,1788274.0,1189713.0
+2016,40,Belarus,1,4,4,9,Belarus,Belarus,Belarus,5820.0,9461076.0,6577083.0
+2016,42,Armenia,1,3,0,4,Armenia,Armenia,Armenia,3666.0,3004600.0,2072031.0
+2016,33,Poland,2,3,6,11,Poland,Poland,Poland,12375.0,37986412.0,26409484.0
+2016,35,Belgium,2,2,2,6,Belgium,Belgium,Belgium,41086.0,11274196.0,7310530.0
+2016,78,Finland,0,0,1,1,Finland,Finland,Finland,42785.0,5479531.0,3475882.0
+2016,69,Qatar,0,1,0,1,Qatar,Qatar,Qatar,66985.0,2344557.0,1992883.0
+2016,54,Singapore,1,0,0,1,Singapore,Singapore,Singapore,54513.0,5535002.0,4334971.0
+2016,54,Tajikistan,1,0,0,1,Tajikistan,Tajikistan,Tajikistan,970.0,8643840.0,5249679.0
+2016,44,Ethiopia,1,2,5,8,Ethiopia,Ethiopia,Ethiopia,616.0,103867135.0,56309619.0
+2016,67,Mongolia,0,1,1,2,Mongolia,Mongolia,Mongolia,3919.0,3026864.0,2016800.0
+2016,69,Burundi,0,1,0,1,Burundi,Burundi,Burundi,262.0,11047580.0,5604766.0
+2016,69,Niger,0,1,0,1,Niger,Niger,Niger,481.0,19939498.0,9643532.0
+2016,54,Fiji,1,0,0,1,Fiji,Fiji,Fiji,5105.0,918578.0,598549.0
+2016,16,Jamaica,6,3,2,11,Jamaica,Jamaica,Jamaica,5081.0,2802534.0,1967143.0
+2016,66,Bulgaria,0,1,2,3,Bulgaria,Bulgaria,Bulgaria,6945.0,6984225.0,4601408.0
+2016,67,India,0,1,1,2,India,India,India,1623.0,1328024498.0,871420269.0
+2016,20,Canada,4,3,15,22,Canada,Canada,Canada,43550.0,35704498.0,24192340.0
+2016,21,Uzbekistan,4,2,7,13,Uzbekistan,Uzbekistan,Uzbekistan,2785.0,30749346.0,20590719.0
+2016,6,Japan,12,8,21,41,Japan,Japan,Japan,34930.0,127141000.0,76580356.0
+2016,23,Switzerland,3,2,2,7,Switzerland,Switzerland,Switzerland,83813.0,8282396.0,5570098.0
+2016,12,Hungary,8,3,4,15,Hungary,Hungary,Hungary,12715.0,9797755.0,6608866.0
+2016,60,Malaysia,0,4,1,5,Malaysia,Malaysia,Malaysia,9700.0,31232798.0,21386602.0
+2016,2,Great Britain,27,23,17,67,Great Britain,United Kingdom,United Kingdom,44890.0,65088000.0,41883749.0
+2016,3,China,26,18,26,70,China,China,China,7937.0,1379860000.0,988372117.0
+2016,13,Brazil,7,6,6,19,Brazil,Brazil,Brazil,8783.0,201675532.0,140448837.0
+2016,31,Ukraine,2,5,4,11,Ukraine,Ukraine,Ukraine,2024.0,45784896.0,31942767.0
+2016,14,Spain,7,4,6,17,Spain,Spain,Spain,25751.0,46422303.0,30852938.0
+2016,29,South Africa,2,6,2,10,South Africa,South Africa,South Africa,6201.0,56723537.0,37620114.0
+2016,28,Sweden,2,6,3,11,Sweden,Sweden,Sweden,51283.0,9799186.0,6169369.0
+2016,10,Australia,8,11,10,29,Australia,Australia,Australia,52321.0,23815995.0,15765573.0
+2016,32,Serbia,2,4,2,8,Serbia,Serbia,Serbia,5274.0,7095383.0,4737929.0
+2016,18,Cuba,5,2,4,11,Cuba,Cuba,Cuba,7690.0,11275065.0,7791137.0
+2016,17,Croatia,5,3,2,10,Croatia,Croatia,Croatia,11835.0,4151725.0,2746211.0
+2016,47,Romania,1,1,2,4,Romania,Romania,Romania,8936.0,19815616.0,13302887.0
+2016,26,Argentina,3,1,0,4,Argentina,Argentina,Argentina,14909.0,43477012.0,27860541.0
+2016,78,Dominican Republic,0,0,1,1,Dominican Republic,Dominican Republic,Dominican Republic,6838.0,10434829.0,6789516.0
+2016,19,New Zealand,4,9,5,18,New Zealand,New Zealand,New Zealand,38789.0,4609400.0,3022211.0
+2020,33,Georgia,2,5,1,8,Georgia,Georgia,Georgia,4208.0,3722716.0,2386714.0
+2020,19,Kenya,4,4,2,10,Kenya,Kenya,Kenya,1936.0,52217334.0,30247731.0
+2020,56,Ethiopia,1,1,2,4,Ethiopia,Ethiopia,Ethiopia,824.0,118917671.0,67164933.0
+2020,56,Portugal,1,1,2,4,Portugal,Portugal,Portugal,22240.0,10297081.0,6569496.0
+2020,74,Nigeria,0,1,1,2,Nigeria,Nigeria,Nigeria,2064.0,213996181.0,115970850.0
+2020,38,Ecuador,2,1,0,3,Ecuador,Ecuador,Ecuador,5645.0,17546065.0,11588191.0
+2020,36,Uganda,2,1,1,4,Uganda,Uganda,Uganda,857.0,44457152.0,23435303.0
+2020,72,Argentina,0,1,2,3,Argentina,Argentina,Argentina,8565.0,45191965.0,29152195.0
+2020,59,Latvia,1,0,1,2,Latvia,Latvia,Latvia,18129.0,1900449.0,1203554.0
+2020,59,Thailand,1,0,1,2,Thailand,Thailand,Thailand,7002.0,71641484.0,50818801.0
+2020,84,Mexico,0,0,4,4,Mexico,Mexico,Mexico,8896.0,126799054.0,84358936.0
+2020,55,Indonesia,1,1,3,5,Indonesia,Indonesia,Indonesia,3896.0,274814866.0,185658524.0
+2020,72,San Marino,0,1,2,3,San Marino,San Marino,San Marino,45423.0,34770.0,23175.0
+2020,53,Austria,1,1,5,7,Austria,Austria,Austria,48839.0,8916864.0,5924102.0
+2020,86,Syria,0,0,1,1,Syria,Syrian Arab Republic,Syrian Arab Republic,836.0,21049429.0,12811514.0
+2020,44,Ukraine,1,6,12,19,Ukraine,Ukraine,Ukraine,3567.0,44680014.0,30212748.0
+2020,77,Saudi Arabia,0,1,0,1,Saudi Arabia,Saudi Arabia,Saudi Arabia,20398.0,31552510.0,22713541.0
+2020,77,North Macedonia,0,1,0,1,North Macedonia,North Macedonia,North Macedonia,5855.0,1856124.0,1233245.0
+2020,63,Bermuda,1,0,0,1,Bermuda,Bermuda,Bermuda,107560.0,64382.0,42935.0
+2020,83,Kazakhstan,0,0,8,8,Kazakhstan,Kazakhstan,Kazakhstan,9014.0,19482117.0,12301140.0
+2020,2,China,38,32,19,89,China,China,China,10308.0,1411100000.0,979302341.0
+2020,10,Italy,10,10,20,40,Italy,Italy,Italy,31890.0,59438851.0,37918891.0
+2020,9,Germany,10,11,16,37,Germany,Germany,Germany,46655.0,83160871.0,53550233.0
+2020,77,Bahrain,0,1,0,1,Bahrain,Bahrain,Bahrain,23433.0,1472204.0,1131043.0
+2020,77,Lithuania,0,1,0,1,Lithuania,Lithuania,Lithuania,20198.0,2810369.0,1825346.0
+2020,77,Namibia,0,1,0,1,Namibia,Namibia,Namibia,4252.0,2728762.0,1617755.0
+2020,50,Philippines,1,2,1,4,Philippines,Philippines,Philippines,3224.0,112081264.0,72395562.0
+2020,52,South Africa,1,2,0,3,South Africa,South Africa,South Africa,5753.0,60562381.0,40511000.0
+2020,4,Great Britain,22,20,22,64,Great Britain,United Kingdom,United Kingdom,40230.0,66744000.0,42334303.0
+2020,26,Croatia,3,3,2,8,Croatia,Croatia,Croatia,14061.0,3914206.0,2500475.0
+2020,11,Canada,7,7,10,24,Canada,Canada,Canada,43485.0,38028638.0,25151490.0
+2020,28,Serbia,3,1,5,9,Serbia,Serbia,Serbia,7251.0,6899126.0,4427040.0
+2020,8,France,10,12,11,33,France,France,France,39632.0,67601110.0,41786545.0
+2020,6,Australia,17,7,22,46,Australia,Australia,Australia,56002.0,25649248.0,16698064.0
+2020,48,India,1,2,4,7,India,India,India,1916.0,1402617695.0,943088901.0
+2020,66,Colombia,0,4,1,5,Colombia,Colombia,Colombia,5302.0,50629997.0,35375771.0
+2020,68,Dominican Republic,0,3,2,5,Dominican Republic,Dominican Republic,Dominican Republic,7168.0,11008300.0,7211256.0
+2020,21,Jamaica,4,1,4,9,Jamaica,Jamaica,Jamaica,4897.0,2830739.0,2046447.0
+2020,22,Spain,3,8,6,17,Spain,Spain,Spain,26985.0,47359424.0,31371298.0
+2020,23,Sweden,3,6,0,9,Sweden,Sweden,Sweden,52759.0,10353442.0,6440267.0
+2020,24,Switzerland,3,4,6,13,Switzerland,Switzerland,Switzerland,85893.0,8638167.0,5718170.0
+2020,25,Denmark,3,4,4,11,Denmark,Denmark,Denmark,60897.0,5831404.0,3714181.0
+2020,45,Belarus,1,3,3,7,Belarus,Belarus,Belarus,6370.0,9379952.0,6305149.0
+2020,46,Romania,1,3,0,4,Romania,Romania,Romania,12929.0,19265250.0,12500209.0
+2020,74,Malaysia,0,1,1,2,Malaysia,Malaysia,Malaysia,10161.0,33889558.0,23490230.0
+2020,69,Armenia,0,2,2,4,Armenia,Armenia,Armenia,4506.0,2961500.0,1998643.0
+2020,71,Mongolia,0,1,3,4,Mongolia,Mongolia,Mongolia,4041.0,3327204.0,2093738.0
+2020,86,Ghana,0,0,1,1,Ghana,Ghana,Ghana,2177.0,31887809.0,18911651.0
+2020,86,Grenada,0,0,1,1,Grenada,Grenada,Grenada,8438.0,116341.0,79244.0
+2020,58,Tunisia,1,1,0,2,Tunisia,Tunisia,Tunisia,3498.0,11974057.0,7978898.0
+2020,42,Kosovo,2,0,0,2,Kosovo,Kosovo,Kosovo,4630.0,1790151.0,1229453.0
+2020,59,Fiji,1,0,1,2,Fiji,Fiji,Fiji,4816.0,914963.0,601201.0
+2020,17,Poland,4,5,5,14,Poland,Poland,Poland,15599.0,37515748.0,24923647.0
+2020,86,Kuwait,0,0,1,1,Kuwait,Kuwait,Kuwait,24298.0,4400267.0,3317123.0
+2020,31,Slovenia,3,1,1,5,Slovenia,Slovenia,Slovenia,25375.0,2102419.0,1361114.0
+2020,30,Bulgaria,3,1,2,6,Bulgaria,Bulgaria,Bulgaria,10059.0,6550696.0,4184680.0
+2020,39,Ireland,2,0,2,4,Ireland,Ireland,Ireland,86656.0,5039747.0,3292799.0
+2020,41,Qatar,2,0,1,3,Qatar,Qatar,Qatar,52316.0,2794148.0,2329067.0
+2020,3,Japan,27,14,17,58,Japan,Japan,Japan,40311.0,126261000.0,74318579.0
+2020,86,Botswana,0,0,1,1,Botswana,Botswana,Botswana,5863.0,2365894.0,1496080.0
+2020,39,Israel,2,0,2,4,Israel,Israel,Israel,47015.0,9215100.0,5521012.0
+2020,32,Uzbekistan,3,0,2,5,Uzbekistan,Uzbekistan,Uzbekistan,1796.0,33586372.0,21816256.0
+2020,86,Burkina Faso,0,0,1,1,Burkina Faso,Burkina Faso,Burkina Faso,840.0,21478690.0,11466274.0
+2020,20,Norway,4,2,2,8,Norway,Norway,Norway,68335.0,5379475.0,3499929.0
+2020,85,Finland,0,0,2,2,Finland,Finland,Finland,49170.0,5529543.0,3419966.0
+2020,12,Brazil,7,6,8,21,Brazil,Brazil,Brazil,6924.0,208660842.0,145321093.0
+2020,13,New Zealand,7,6,7,20,New Zealand,New Zealand,New Zealand,41967.0,5090200.0,3326968.0
+2020,14,Cuba,7,3,5,15,Cuba,Cuba,Cuba,9500.0,11176354.0,7658594.0
+2020,29,Belgium,3,1,3,7,Belgium,Belgium,Belgium,45518.0,11538604.0,7381890.0
+2020,36,Greece,2,1,1,4,Greece,Greece,Greece,17930.0,10698599.0,6786793.0
+2020,74,Jordan,0,1,1,2,Jordan,Jordan,Jordan,3988.0,10865228.0,6873279.0
+2020,59,Estonia,1,0,1,2,Estonia,Estonia,Estonia,23597.0,1329522.0,842406.0
+2020,63,Morocco,1,0,0,1,Morocco,Morocco,Morocco,3308.0,36584208.0,24156677.0
+2020,77,Turkmenistan,0,1,0,1,Turkmenistan,Turkmenistan,Turkmenistan,7382.0,6949912.0,4515703.0
+2020,15,Hungary,6,7,7,20,Hungary,Hungary,Hungary,16125.0,9670419.0,6319780.0
+2020,67,Azerbaijan,0,3,4,7,Azerbaijan,Azerbaijan,Azerbaijan,4151.0,10093121.0,7037597.0
+2024,52,Tunisia,1,1,1,3,Tunisia,Tunisia,Tunisia,3738.0,12119334.0,8049960.0
+2024,62,Dominica,1,0,0,1,Dominica,Dominica,Dominica,8415.0,66826.0,46191.0
+2024,74,Mongolia,0,1,0,1,Mongolia,Mongolia,Mongolia,5046.0,3433748.0,2146054.0
+2024,2,China,40,27,24,91,China,China,China,12598.0,1412175000.0,975760249.0
+2024,50,Portugal,1,2,1,4,Portugal,Portugal,Portugal,24813.0,10434332.0,6605952.0
+2024,48,Switzerland,1,2,5,8,Switzerland,Switzerland,Switzerland,93636.0,8777088.0,5767505.0
+2024,62,Pakistan,1,0,0,1,Pakistan,Pakistan,Pakistan,1386.0,243700667.0,142756293.0
+2024,71,India,0,1,5,6,India,India,India,2445.0,1425423212.0,966626467.0
+2024,74,Panama,0,1,0,1,Panama,Panama,Panama,17358.0,4400773.0,2885308.0
+2024,84,Zambia,0,0,1,1,Zambia,Zambia,Zambia,1456.0,20152938.0,11226234.0
+2024,66,Colombia,0,3,1,4,Colombia,Colombia,Colombia,6630.0,51737944.0,36237340.0
+2024,55,Chile,1,1,0,2,Chile,Chile,Chile,15338.0,19553036.0,13480325.0
+2024,14,Hungary,6,7,6,19,Hungary,Hungary,Hungary,17792.0,9605074.0,6228108.0
+2024,52,Argentina,1,1,1,3,Argentina,Argentina,Argentina,13868.0,45407904.0,29612843.0
+2024,65,Mexico,0,3,2,5,Mexico,Mexico,Mexico,11477.0,128613117.0,86098005.0
+2024,66,Armenia,0,3,1,4,Armenia,Armenia,Armenia,7018.0,2969200.0,1995964.0
+2024,80,Grenada,0,0,2,2,Grenada,Grenada,Grenada,9509.0,116913.0,79803.0
+2024,84,Singapore,0,0,1,1,Singapore,Singapore,Singapore,78115.0,5637022.0,4244893.0
+2024,33,Bahrain,2,1,1,4,Bahrain,Bahrain,Bahrain,30147.0,1524693.0,1180449.0
+2024,32,Cuba,2,1,6,9,Cuba,Cuba,Cuba,13128.0,11059820.0,7570129.0
+2024,30,Croatia,2,2,3,7,Croatia,Croatia,Croatia,17753.0,3855641.0,2437319.0
+2024,27,Serbia,3,1,1,5,Serbia,Serbia,Serbia,8802.0,6664449.0,4236438.0
+2024,44,Jamaica,1,3,2,6,Jamaica,Jamaica,Jamaica,6047.0,2839144.0,2069255.0
+2024,26,Bulgaria,3,1,3,7,Bulgaria,Bulgaria,Bulgaria,13302.0,6465097.0,4122370.0
+2024,34,Slovenia,2,1,0,3,Slovenia,Slovenia,Slovenia,28295.0,2112076.0,1352205.0
+2024,23,Romania,3,4,2,9,Romania,Romania,Romania,15295.0,19048502.0,12280355.0
+2024,24,Georgia,3,3,1,7,Georgia,Georgia,Georgia,6571.0,3712502.0,2365454.0
+2024,25,Belgium,3,1,6,10,Belgium,Belgium,Belgium,49987.0,11680210.0,7440659.0
+2024,12,Canada,9,7,11,27,Canada,Canada,Canada,55597.0,38935934.0,25507454.0
+2024,55,Uganda,1,1,0,2,Uganda,Uganda,Uganda,1021.0,47312719.0,25349067.0
+2024,59,Dominican Republic,1,0,2,3,Dominican Republic,Dominican Republic,Dominican Republic,10111.0,11230734.0,7358479.0
+2024,4,Australia,18,19,16,53,Australia,Australia,Australia,67867.0,26014399.0,16828565.0
+2024,51,Greece,1,1,6,8,Greece,Greece,Greece,20923.0,10436882.0,6567260.0
+2024,84,Qatar,0,0,1,1,Qatar,Qatar,Qatar,87974.0,2657333.0,2215176.0
+2024,70,Lithuania,0,2,2,4,Lithuania,Lithuania,Lithuania,25773.0,2831639.0,1843121.0
+2024,55,Botswana,1,1,0,2,Botswana,Botswana,Botswana,7738.0,2439892.0,1554129.0
+2024,47,Ethiopia,1,3,0,4,Ethiopia,Ethiopia,Ethiopia,964.0,125384287.0,71681922.0
+2024,30,Azerbaijan,2,2,3,7,Azerbaijan,Azerbaijan,Azerbaijan,7600.0,10141756.0,7066358.0
+2024,39,Algeria,2,0,1,3,Algeria,Algeria,Algeria,4274.0,45477389.0,28637951.0
+2024,29,Denmark,2,2,5,9,Denmark,Denmark,Denmark,68029.0,5903037.0,3752146.0
+2024,13,Uzbekistan,8,2,3,13,Uzbekistan,Uzbekistan,Uzbekistan,2322.0,34938955.0,22321376.0
+2024,11,New Zealand,10,7,3,20,New Zealand,New Zealand,New Zealand,47412.0,5117100.0,3321682.0
+2024,10,Germany,12,13,8,33,Germany,Germany,Germany,48902.0,83797985.0,53319453.0
+2024,9,Italy,12,13,15,40,Italy,Italy,Italy,34672.0,59013667.0,37580511.0
+2024,80,Albania,0,0,2,2,Albania,Albania,Albania,6655.0,2777689.0,1861085.0
+2024,80,Malaysia,0,0,2,2,Malaysia,Malaysia,Malaysia,11972.0,34695493.0,24280146.0
+2024,74,Jordan,0,1,0,1,Jordan,Jordan,Jordan,4205.0,11256263.0,7204554.0
+2024,74,Fiji,0,1,0,1,Fiji,Fiji,Fiji,5356.0,919422.0,607631.0
+2024,74,Cyprus,0,1,0,1,Cyprus,Cyprus,Cyprus,32999.0,1331370.0,930479.0
+2024,79,Tajikistan,0,0,3,3,Tajikistan,Tajikistan,Tajikistan,1054.0,10182222.0,6102916.0
+2024,73,Kosovo,0,1,1,2,Kosovo,Kosovo,Kosovo,5662.0,1768096.0,1220212.0
+2024,84,Peru,0,0,1,1,Peru,Peru,Peru,7126.0,33475438.0,22235789.0
+2024,42,Poland,1,4,5,10,Poland,Poland,Poland,17265.0,36821749.0,24176067.0
+2024,43,Kazakhstan,1,3,3,7,Kazakhstan,Kazakhstan,Kazakhstan,11625.0,20034609.0,12499203.0
+2024,41,Israel,1,5,1,7,Israel,Israel,Israel,58086.0,9557500.0,5724315.0
+2024,39,Indonesia,2,0,1,3,Indonesia,Indonesia,Indonesia,4788.0,278830529.0,189329461.0
+2024,7,Great Britain,14,22,29,65,Great Britain,United Kingdom,United Kingdom,45758.0,67604000.0,42888267.0
+2024,5,France,16,26,22,64,France,France,France,41426.0,68065015.0,41922083.0
+2024,60,Guatemala,1,0,1,2,Guatemala,Guatemala,Guatemala,5324.0,17847877.0,11182780.0
+2024,60,Morocco,1,0,1,2,Morocco,Morocco,Morocco,3495.0,37329064.0,24669244.0
+2024,37,Philippines,2,0,2,4,Philippines,Philippines,Philippines,3499.0,113964338.0,74792145.0
+2024,44,South Africa,1,3,2,6,South Africa,South Africa,South Africa,6766.0,62378410.0,41991393.0
+2024,44,Thailand,1,3,2,6,Thailand,Thailand,Thailand,6909.0,71735329.0,50552066.0
+2024,15,Spain,5,4,9,18,Spain,Spain,Spain,29771.0,47786102.0,31642089.0
+2024,16,Sweden,4,4,3,11,Sweden,Sweden,Sweden,56040.0,10486941.0,6519659.0
+2024,17,Kenya,4,2,5,11,Kenya,Kenya,Kenya,2099.0,54252461.0,32044126.0
+2024,18,Norway,4,1,3,8,Norway,Norway,Norway,106623.0,5457127.0,3540787.0
+2024,19,Ireland,4,0,3,7,Ireland,Ireland,Ireland,105993.0,5212836.0,3408271.0
+2024,36,Austria,2,0,3,5,Austria,Austria,Austria,52609.0,9041851.0,5955333.0
+2024,3,Japan,20,12,13,45,Japan,Japan,Japan,34144.0,125124989.0,73496437.0
+2024,22,Ukraine,3,5,4,12,Ukraine,Ukraine,Ukraine,4043.0,41048766.0,27634577.0
+2024,20,Brazil,3,7,10,20,Brazil,Brazil,Brazil,8918.0,210306415.0,146259149.0
+2024,49,Ecuador,1,2,2,5,Ecuador,Ecuador,Ecuador,6391.0,17823897.0,11876572.0
